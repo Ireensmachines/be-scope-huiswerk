@@ -11,7 +11,7 @@ public class MainTwo {
             totalsum = totalsum + random.nextInt();
         }
 
-
+//aantekening voor PR
         System.out.println("De som van alle random-getallen is: " + totalsum);
     }
 
