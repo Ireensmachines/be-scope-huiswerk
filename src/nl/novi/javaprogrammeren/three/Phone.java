@@ -12,8 +12,8 @@ public class Phone {
     }
 
     public String getInternationalPhoneNumber() {
-        String phoneNumber = "+31";
+        String phoneNumber1 = "+31" + phoneNumber;
 
-        return phoneNumber;
+        return phoneNumber1;
     }
 }
