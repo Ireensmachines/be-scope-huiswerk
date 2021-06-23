@@ -12,7 +12,7 @@ public class MainTwo {
         }
 
 
-        System.out.println("De som van alle random-getallen is: " + totalsum)
+        System.out.println("De som van alle random-getallen is: " + totalsum);
     }
 
 }
